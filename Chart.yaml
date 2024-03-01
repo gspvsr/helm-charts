@@ -4,5 +4,3 @@ name: nginx
 version: 0.0.1 # this is the chart version.
 description: This is the helm chart for nginx
 appVersion: "1.0.0" # this version belongs to application.
-
-
