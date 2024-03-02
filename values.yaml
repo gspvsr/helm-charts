@@ -1,4 +1,4 @@
-deployemnt:
+deployment:
   imageVersion: stable-perl
   replicaCount: 3
 service:
